@@ -1,3 +1,3 @@
-# hello-maven
+# Maven basic usage Example
 
 Maven practice project
